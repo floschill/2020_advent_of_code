@@ -1,5 +1,5 @@
 # 2020_advent_of_code
-### 1
+### [1](https://github.com/floschill/2020_advent_of_code/blob/main/1.pl)
 ### 2
 ### 3
 ### 4
