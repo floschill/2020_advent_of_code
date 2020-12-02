@@ -1,6 +1,6 @@
 # 2020_advent_of_code
-### [1](https://github.com/floschill/2020_advent_of_code/blob/main/1.pl)
-### 2
+### [1](https://github.com/floschill/2020_advent_of_code/blob/main/solutions/1.pl)
+### 2: - [2.1](https://github.com/floschill/2020_advent_of_code/blob/main/solutions/2_1.pl) - [2.2](https://github.com/floschill/2020_advent_of_code/blob/main/solutions/2_2.pl)
 ### 3
 ### 4
 ### 5
